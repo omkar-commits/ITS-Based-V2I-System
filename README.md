@@ -1,6 +1,7 @@
 # ITS-Based-V2I-System
 Bachelor's project: Intelligent Transport System Based on Vehicle to infrastructure communication
- Research Paper: https://scholar.google.com/citations?user=URIxk-kAAAAJ&hl=en
+Embedded Systems
+Research Paper: https://scholar.google.com/citations?user=URIxk-kAAAAJ&hl=en
  
  This includes an overview of the project, including basic technologies used in system, software and hardware. 
  The use of v2v and v2i technologies have been underlined in this chapter. How the use of v2i system is inculcated in this project is also been focused here.
