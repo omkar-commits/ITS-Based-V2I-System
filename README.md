@@ -46,8 +46,9 @@ and sensors installed on the road.
 2.When traﬃc is more there is sensing from both sensors.
 
 4. Conclusion
-We have presented a V2I-based traﬃc management system with a two fold objective: First, our approach proposes a solution to the problem of regulating trafc ow in urban areas, 
-in which diﬀerent bottleneck situations may coexist. Second, it contributes to avoiding accidents by alerting the driver in advance of potential collisions.
+We have presented V2I-based traﬃc management system with a two fold objective: First, our approach proposes a solution to the problem of regulating trafc ow in urban areas, 
+in which diﬀerent bottleneck situations may coexist.
+Second  ITS based System to improve safety of vehicle and improve user diving experience, it contributes to avoiding accidents by alerting the driver in advance of potential collisions.
 The system includes an intelligent controller that uses a reference safety distance and the appropriate speed as fuzzy inputs.
 The output sent to the driver is information on how the vehicle is being driven.
 
